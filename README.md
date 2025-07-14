@@ -1,6 +1,6 @@
 # 📚 DSA Series in C++ by Pradeep Rawat
 
-This repository contains a complete **Data Structures and Algorithms (DSA)** series in **C++**, following the popular course by **Shraddha Khapra** (Apna College). It is ideal for students, interview prep, and competitive programming.
+This repository contains a complete **Data Structures and Algorithms (DSA)** series in **C++**, following the popular course by **Love Babbar** . It is ideal for students, interview prep, and competitive programming.
 
 ---
 

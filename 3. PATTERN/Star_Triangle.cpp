@@ -1,4 +1,4 @@
-// pattern 5 :- Triangle Pattern
+// pattern 6 :- Triangle Pattern
         //  Number of lines : 3
         //      *
         //      * *
